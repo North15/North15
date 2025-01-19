@@ -27,7 +27,7 @@ Welcome to my GitHub profile! 🚀 Here's a bit about me:
 ## 🛠️ My Tech Stack:
 
 ### Languages & Frameworks:
-- **Backend**: `.NET (Framework 4.8 & Core)`, **Node.js**
+- **Backend**: `.NET (Framework 4.8 & Core)`, `Node.js`
 - **Frontend**: `Next.js`, `TypeScript`, `React`, `Tailwind CSS`
 - **Scripting**: `Python`, `SQL`
 
