@@ -44,9 +44,7 @@ Welcome to my GitHub profile! 🚀 Here's a bit about me:
 
 ## 🌟 Fun Facts:
 
-- 🏃‍♂️ Training for a **5K, 10K, and half-marathon** this year. Ultimate goal: **Full Marathon** in 2026!
 - 📚 Avid reader. Favorite books include *The Brothers Karamazov*, *1984*, and *Meditations*. This year, I aim to read 15 books! 📖
-- 🏕️ Planning to hike the **10 tallest mountains in Georgia** and rediscover the great outdoors.
 - 🎙️ Licensed **HAM Radio Operator** transmitting between 1.8-148 MHz.
 
 
