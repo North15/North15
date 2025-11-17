@@ -91,7 +91,7 @@ I design and build secure, scalable systems that serve hundreds of thousands of 
 ## 🌟 Outside of Work
 
 - Licensed **HAM Radio Operator** supporting local Emergency Management (CDAT member).  
-- Passionate about endurance training — aiming to complete a **half-marathon** this year.  
+- Passionate about endurance training — aiming to complete a **half-marathon** next year.  
 - Active reader (current favorites: *The Brothers Karamazov*, *Meditations*, *1984*).
 
 ---
